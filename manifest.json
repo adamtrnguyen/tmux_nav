@@ -1,0 +1,9 @@
+{
+	"id": "tmux-nav",
+	"name": "Tmux Navigator",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Tmux-style pane navigation with Ctrl+hjkl",
+	"author": "Adam Nguyen",
+	"isDesktopOnly": false
+}
